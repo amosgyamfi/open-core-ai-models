@@ -1,2 +1,2 @@
-# SwiftUI Dynamic Isle
-SwiftUI animations cloned from the Apple website 
+# Open Core AI Models
+Hugging Face Models 🤗 -> Core AI 
