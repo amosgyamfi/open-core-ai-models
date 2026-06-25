@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+
+# Generated non-Core-AI artifacts are large and should be published intentionally.
+artifacts/
+*.safetensors
+*.wav
+
+# Local Hugging Face/cache material.
+.cache/
+hf-cache/
+
+# Local source clone used for inspection while building this converter.
+upstream/

@@ -1,0 +1,11 @@
+.venv
+.git
+.cache
+hf-cache
+models
+artifacts
+upstream
+__pycache__
+*.pyc
+*.egg-info
+.DS_Store
