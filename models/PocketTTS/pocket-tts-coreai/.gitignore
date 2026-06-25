@@ -1,0 +1,13 @@
+# Python env / caches
+conversion/.venv/
+**/__pycache__/
+*.pyc
+
+# Build outputs (regenerate with the recipe — do NOT commit upstream-derived weights)
+conversion/artifacts/
+conversion/dist/
+conversion/*.wav
+
+# Swift build
+swift/.build/
+swift/.swiftpm/

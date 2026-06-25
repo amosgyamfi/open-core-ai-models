@@ -1,0 +1,28 @@
+{
+  "metadata_version": "0.2",
+  "kind": "llm",
+  "name": "lfm2_5_230m_decode_fp16",
+  "assets": {
+    "main": "lfm2_5_230m_decode_fp16.aimodel"
+  },
+  "language": {
+    "tokenizer": "LiquidAI/LFM2.5-230M",
+    "vocab_size": 65536,
+    "max_context_length": 4096,
+    "embedded_tokenizer": true,
+    "function_map": {
+      "main": [
+        "main"
+      ]
+    }
+  },
+  "source": {
+    "model_definition": "torch",
+    "hf_model_id": "LiquidAI/LFM2.5-230M"
+  },
+  "compression": null,
+  "compilation": {
+    "date": "2026-06-25T16:42:19.953374+00:00",
+    "targets": []
+  }
+}

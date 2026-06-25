@@ -1,0 +1,11 @@
+# Pocket-TTS → Core AI conversion environment (macOS 27, Python 3.12).
+# Apple Core AI tooling — install per Apple's Core AI developer instructions (developer.apple.com/core-ai).
+coreai-core==1.0.0b1
+coreai-torch==0.4.0
+coreai-opt==0.2.0
+
+# Upstream model + tracing.
+pocket-tts==2.1.0
+torch>=2.5
+sentencepiece==0.2.1
+numpy>=2.0

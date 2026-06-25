@@ -1,0 +1,14 @@
+{
+  "_from_model_config": true,
+  "bos_token_id": 1,
+  "eos_token_id": 7,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "pad_token_id": 0,
+  "do_sample": true,
+  "temperature": 0.1,
+  "top_k": 50,
+  "repetition_penalty": 1.05,
+  "transformers_version": "5.2.0",
+  "use_cache": true
+}

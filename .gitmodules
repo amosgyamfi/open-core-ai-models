@@ -1,0 +1,15 @@
+[submodule "models/LFM2.5-230M/coreai-model-zoo"]
+	path = models/LFM2.5-230M/coreai-model-zoo
+	url = https://github.com/john-rocky/coreai-model-zoo.git
+[submodule "models/LFM2.5-230M/coreai-models"]
+	path = models/LFM2.5-230M/coreai-models
+	url = https://github.com/apple/coreai-models.git
+[submodule "models/PocketTTS/ref-coreai-models"]
+	path = models/PocketTTS/ref-coreai-models
+	url = https://github.com/apple/coreai-models.git
+[submodule "models/PocketTTS/ref-coreai-zoo"]
+	path = models/PocketTTS/ref-coreai-zoo
+	url = https://github.com/john-rocky/coreai-model-zoo.git
+[submodule "models/PocketTTS/src-pocket-tts"]
+	path = models/PocketTTS/src-pocket-tts
+	url = https://github.com/kyutai-labs/pocket-tts.git
