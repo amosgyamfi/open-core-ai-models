@@ -1,0 +1,10 @@
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Still waiting to acquire lock on VibeVoice-Realtime-0.5B/.cache/huggingface/.gitignore.lock (elapsed: 0.1 seconds)
+Still waiting to acquire lock on VibeVoice-Realtime-0.5B/.cache/huggingface/.gitignore.lock (elapsed: 0.1 seconds)
+Downloading 'figures/Fig1.png' to 'VibeVoice-Realtime-0.5B/.cache/huggingface/download/figures/vFHUqJgslacds9sZZoKEvrlg0f4=.0386a7f577a66324c2b07cf3dff573bc805ce8687c8d6f8b5f3d6d04aed51250.incomplete'
+Downloading 'README.md' to 'VibeVoice-Realtime-0.5B/.cache/huggingface/download/Xn7B-BWUGOee2Y6hCZtEhtFu4BE=.8c2ea6fc74deb70c8d6164d06a12e584498b4379.incomplete'
+Downloading '.gitattributes' to 'VibeVoice-Realtime-0.5B/.cache/huggingface/download/wPaCkH-WbT7GsmxMKKrNZTV4nSM=.e685d20cb7927ac8016dadb2514ec1221b1c2a8f.incomplete'
+Download complete. Moving file to VibeVoice-Realtime-0.5B/.gitattributes
+Fetching 6 files:  17%|█▋        | 1/6 [00:01<00:05,  1.20s/it]Download complete. Moving file to VibeVoice-Realtime-0.5B/README.md
+Download complete. Moving file to VibeVoice-Realtime-0.5B/figures/Fig1.png
+Fetching 6 files:  67%|██████▋   | 4/6 [00:02<00:01,  1.52it/s]Fetching 6 files: 100%|██████████| 6/6 [00:02<00:00,  2.14it/s]
+/Users/amosgyamfi/Desktop/VibeVoice/VibeVoiceCoreAI/models/VibeVoice-Realtime-0.5B

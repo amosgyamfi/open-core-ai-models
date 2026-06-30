@@ -13,3 +13,9 @@
 [submodule "models/PocketTTS/src-pocket-tts"]
 	path = models/PocketTTS/src-pocket-tts
 	url = https://github.com/kyutai-labs/pocket-tts.git
+[submodule "models/VibeVoice/VibeVoice"]
+	path = models/VibeVoice/VibeVoice
+	url = https://github.com/microsoft/VibeVoice.git
+[submodule "models/VibeVoice/coreai-models"]
+	path = models/VibeVoice/coreai-models
+	url = https://github.com/apple/coreai-models.git

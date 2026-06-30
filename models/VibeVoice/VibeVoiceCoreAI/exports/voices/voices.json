@@ -1,0 +1,734 @@
+[
+  {
+    "name": "nl-Spk0_man",
+    "language": "Dutch",
+    "gender": "male",
+    "lengths": {
+      "lm": 119,
+      "tts_lm": 266,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "nl-Spk0_man.safetensors"
+  },
+  {
+    "name": "nl-Spk1_woman",
+    "language": "Dutch",
+    "gender": "female",
+    "lengths": {
+      "lm": 146,
+      "tts_lm": 373,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "nl-Spk1_woman.safetensors"
+  },
+  {
+    "name": "en-Breeze_woman",
+    "language": "English",
+    "gender": "female",
+    "lengths": {
+      "lm": 37,
+      "tts_lm": 97,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Breeze_woman.safetensors"
+  },
+  {
+    "name": "en-Brutalon_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 48,
+      "tts_lm": 192,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Brutalon_man.safetensors"
+  },
+  {
+    "name": "en-Carter_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 108,
+      "tts_lm": 316,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Carter_man.safetensors"
+  },
+  {
+    "name": "en-Clarion_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 82,
+      "tts_lm": 281,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Clarion_man.safetensors"
+  },
+  {
+    "name": "en-Clarissa_woman",
+    "language": "English",
+    "gender": "female",
+    "lengths": {
+      "lm": 77,
+      "tts_lm": 252,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Clarissa_woman.safetensors"
+  },
+  {
+    "name": "en-Davis_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 60,
+      "tts_lm": 183,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Davis_man.safetensors"
+  },
+  {
+    "name": "en-Emma_woman",
+    "language": "English",
+    "gender": "female",
+    "lengths": {
+      "lm": 74,
+      "tts_lm": 251,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Emma_woman.safetensors"
+  },
+  {
+    "name": "en-Frank_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 72,
+      "tts_lm": 253,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Frank_man.safetensors"
+  },
+  {
+    "name": "en-Grace_woman",
+    "language": "English",
+    "gender": "female",
+    "lengths": {
+      "lm": 57,
+      "tts_lm": 209,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Grace_woman.safetensors"
+  },
+  {
+    "name": "en-Gravitar_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 65,
+      "tts_lm": 249,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Gravitar_man.safetensors"
+  },
+  {
+    "name": "en-Gravus_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 71,
+      "tts_lm": 258,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Gravus_man.safetensors"
+  },
+  {
+    "name": "en-MechCorsair_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 78,
+      "tts_lm": 358,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-MechCorsair_man.safetensors"
+  },
+  {
+    "name": "en-Mike_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 49,
+      "tts_lm": 148,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Mike_man.safetensors"
+  },
+  {
+    "name": "en-Oldenheart_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 73,
+      "tts_lm": 290,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Oldenheart_man.safetensors"
+  },
+  {
+    "name": "en-Silkvox_man",
+    "language": "English",
+    "gender": "male",
+    "lengths": {
+      "lm": 55,
+      "tts_lm": 165,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Silkvox_man.safetensors"
+  },
+  {
+    "name": "en-Snarkling_woman",
+    "language": "English",
+    "gender": "female",
+    "lengths": {
+      "lm": 71,
+      "tts_lm": 334,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Snarkling_woman.safetensors"
+  },
+  {
+    "name": "en-Soother_woman",
+    "language": "English",
+    "gender": "female",
+    "lengths": {
+      "lm": 69,
+      "tts_lm": 241,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "en-Soother_woman.safetensors"
+  },
+  {
+    "name": "in-Samuel_man",
+    "language": "English (Indian)",
+    "gender": "male",
+    "lengths": {
+      "lm": 85,
+      "tts_lm": 284,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "in-Samuel_man.safetensors"
+  },
+  {
+    "name": "fr-Spk0_man",
+    "language": "French",
+    "gender": "male",
+    "lengths": {
+      "lm": 118,
+      "tts_lm": 323,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "fr-Spk0_man.safetensors"
+  },
+  {
+    "name": "fr-Spk1_woman",
+    "language": "French",
+    "gender": "female",
+    "lengths": {
+      "lm": 132,
+      "tts_lm": 309,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "fr-Spk1_woman.safetensors"
+  },
+  {
+    "name": "fr-Spk2_man",
+    "language": "French",
+    "gender": "male",
+    "lengths": {
+      "lm": 148,
+      "tts_lm": 396,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "fr-Spk2_man.safetensors"
+  },
+  {
+    "name": "fr-Spk3_woman",
+    "language": "French",
+    "gender": "female",
+    "lengths": {
+      "lm": 81,
+      "tts_lm": 201,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "fr-Spk3_woman.safetensors"
+  },
+  {
+    "name": "fr-Spk4_woman",
+    "language": "French",
+    "gender": "female",
+    "lengths": {
+      "lm": 102,
+      "tts_lm": 266,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "fr-Spk4_woman.safetensors"
+  },
+  {
+    "name": "fr-Spk5_man",
+    "language": "French",
+    "gender": "male",
+    "lengths": {
+      "lm": 194,
+      "tts_lm": 456,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "fr-Spk5_man.safetensors"
+  },
+  {
+    "name": "de-Spk0_man",
+    "language": "German",
+    "gender": "male",
+    "lengths": {
+      "lm": 223,
+      "tts_lm": 510,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "de-Spk0_man.safetensors"
+  },
+  {
+    "name": "de-Spk1_woman",
+    "language": "German",
+    "gender": "female",
+    "lengths": {
+      "lm": 131,
+      "tts_lm": 394,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "de-Spk1_woman.safetensors"
+  },
+  {
+    "name": "de-Spk2_woman",
+    "language": "German",
+    "gender": "female",
+    "lengths": {
+      "lm": 73,
+      "tts_lm": 220,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "de-Spk2_woman.safetensors"
+  },
+  {
+    "name": "de-Spk3_man",
+    "language": "German",
+    "gender": "male",
+    "lengths": {
+      "lm": 123,
+      "tts_lm": 346,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "de-Spk3_man.safetensors"
+  },
+  {
+    "name": "de-Spk4_woman",
+    "language": "German",
+    "gender": "female",
+    "lengths": {
+      "lm": 150,
+      "tts_lm": 430,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "de-Spk4_woman.safetensors"
+  },
+  {
+    "name": "de-Spk5_man",
+    "language": "German",
+    "gender": "male",
+    "lengths": {
+      "lm": 106,
+      "tts_lm": 274,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "de-Spk5_man.safetensors"
+  },
+  {
+    "name": "de-Spk6_man",
+    "language": "German",
+    "gender": "male",
+    "lengths": {
+      "lm": 186,
+      "tts_lm": 467,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "de-Spk6_man.safetensors"
+  },
+  {
+    "name": "it-Spk0_woman",
+    "language": "Italian",
+    "gender": "female",
+    "lengths": {
+      "lm": 57,
+      "tts_lm": 190,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "it-Spk0_woman.safetensors"
+  },
+  {
+    "name": "it-Spk1_man",
+    "language": "Italian",
+    "gender": "male",
+    "lengths": {
+      "lm": 70,
+      "tts_lm": 211,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "it-Spk1_man.safetensors"
+  },
+  {
+    "name": "jp-Spk0_man",
+    "language": "Japanese",
+    "gender": "male",
+    "lengths": {
+      "lm": 135,
+      "tts_lm": 341,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "jp-Spk0_man.safetensors"
+  },
+  {
+    "name": "jp-Spk1_woman",
+    "language": "Japanese",
+    "gender": "female",
+    "lengths": {
+      "lm": 127,
+      "tts_lm": 341,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "jp-Spk1_woman.safetensors"
+  },
+  {
+    "name": "jp-Spk2_woman",
+    "language": "Japanese",
+    "gender": "female",
+    "lengths": {
+      "lm": 80,
+      "tts_lm": 272,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "jp-Spk2_woman.safetensors"
+  },
+  {
+    "name": "jp-Spk3_woman",
+    "language": "Japanese",
+    "gender": "female",
+    "lengths": {
+      "lm": 117,
+      "tts_lm": 332,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "jp-Spk3_woman.safetensors"
+  },
+  {
+    "name": "jp-Spk4_woman",
+    "language": "Japanese",
+    "gender": "female",
+    "lengths": {
+      "lm": 101,
+      "tts_lm": 308,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "jp-Spk4_woman.safetensors"
+  },
+  {
+    "name": "jp-Spk5_man",
+    "language": "Japanese",
+    "gender": "male",
+    "lengths": {
+      "lm": 82,
+      "tts_lm": 291,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "jp-Spk5_man.safetensors"
+  },
+  {
+    "name": "kr-Spk0_woman",
+    "language": "Korean",
+    "gender": "female",
+    "lengths": {
+      "lm": 120,
+      "tts_lm": 303,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "kr-Spk0_woman.safetensors"
+  },
+  {
+    "name": "kr-Spk1_man",
+    "language": "Korean",
+    "gender": "male",
+    "lengths": {
+      "lm": 196,
+      "tts_lm": 421,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "kr-Spk1_man.safetensors"
+  },
+  {
+    "name": "kr-Spk2_woman",
+    "language": "Korean",
+    "gender": "female",
+    "lengths": {
+      "lm": 136,
+      "tts_lm": 353,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "kr-Spk2_woman.safetensors"
+  },
+  {
+    "name": "kr-Spk3_man",
+    "language": "Korean",
+    "gender": "male",
+    "lengths": {
+      "lm": 132,
+      "tts_lm": 325,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "kr-Spk3_man.safetensors"
+  },
+  {
+    "name": "pl-Spk0_man",
+    "language": "Polish",
+    "gender": "male",
+    "lengths": {
+      "lm": 106,
+      "tts_lm": 274,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pl-Spk0_man.safetensors"
+  },
+  {
+    "name": "pl-Spk1_woman",
+    "language": "Polish",
+    "gender": "female",
+    "lengths": {
+      "lm": 128,
+      "tts_lm": 369,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pl-Spk1_woman.safetensors"
+  },
+  {
+    "name": "pl-Spk2_man",
+    "language": "Polish",
+    "gender": "male",
+    "lengths": {
+      "lm": 187,
+      "tts_lm": 476,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pl-Spk2_man.safetensors"
+  },
+  {
+    "name": "pl-Spk3_woman",
+    "language": "Polish",
+    "gender": "female",
+    "lengths": {
+      "lm": 169,
+      "tts_lm": 447,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pl-Spk3_woman.safetensors"
+  },
+  {
+    "name": "pt-Spk0_woman",
+    "language": "Portuguese",
+    "gender": "female",
+    "lengths": {
+      "lm": 52,
+      "tts_lm": 168,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pt-Spk0_woman.safetensors"
+  },
+  {
+    "name": "pt-Spk1_man",
+    "language": "Portuguese",
+    "gender": "male",
+    "lengths": {
+      "lm": 102,
+      "tts_lm": 259,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pt-Spk1_man.safetensors"
+  },
+  {
+    "name": "pt-Spk2_woman",
+    "language": "Portuguese",
+    "gender": "female",
+    "lengths": {
+      "lm": 94,
+      "tts_lm": 297,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pt-Spk2_woman.safetensors"
+  },
+  {
+    "name": "pt-Spk3_man",
+    "language": "Portuguese",
+    "gender": "male",
+    "lengths": {
+      "lm": 110,
+      "tts_lm": 300,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pt-Spk3_man.safetensors"
+  },
+  {
+    "name": "pt-Spk4_man",
+    "language": "Portuguese",
+    "gender": "male",
+    "lengths": {
+      "lm": 108,
+      "tts_lm": 338,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pt-Spk4_man.safetensors"
+  },
+  {
+    "name": "pt-Spk5_woman",
+    "language": "Portuguese",
+    "gender": "female",
+    "lengths": {
+      "lm": 99,
+      "tts_lm": 348,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "pt-Spk5_woman.safetensors"
+  },
+  {
+    "name": "sp-Spk0_woman",
+    "language": "Spanish",
+    "gender": "female",
+    "lengths": {
+      "lm": 109,
+      "tts_lm": 314,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "sp-Spk0_woman.safetensors"
+  },
+  {
+    "name": "sp-Spk1_man",
+    "language": "Spanish",
+    "gender": "male",
+    "lengths": {
+      "lm": 130,
+      "tts_lm": 381,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "sp-Spk1_man.safetensors"
+  },
+  {
+    "name": "sp-Spk2_woman",
+    "language": "Spanish",
+    "gender": "female",
+    "lengths": {
+      "lm": 169,
+      "tts_lm": 383,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "sp-Spk2_woman.safetensors"
+  },
+  {
+    "name": "sp-Spk3_man",
+    "language": "Spanish",
+    "gender": "male",
+    "lengths": {
+      "lm": 101,
+      "tts_lm": 306,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "sp-Spk3_man.safetensors"
+  },
+  {
+    "name": "sp-Spk4_woman",
+    "language": "Spanish",
+    "gender": "female",
+    "lengths": {
+      "lm": 102,
+      "tts_lm": 268,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "sp-Spk4_woman.safetensors"
+  },
+  {
+    "name": "sp-Spk5_man",
+    "language": "Spanish",
+    "gender": "male",
+    "lengths": {
+      "lm": 120,
+      "tts_lm": 365,
+      "neg_lm": 1,
+      "neg_tts_lm": 1
+    },
+    "file": "sp-Spk5_man.safetensors"
+  }
+]

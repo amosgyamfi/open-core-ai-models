@@ -1,0 +1,13 @@
+{
+  "processor_class": "VibeVoiceStreamingProcessor",
+  "speech_tok_compress_ratio": 3200,
+  "db_normalize": true,
+  "audio_processor": {
+    "feature_extractor_type": "VibeVoiceTokenizerProcessor",
+    "sampling_rate": 24000,
+    "normalize_audio": true,
+    "target_dB_FS": -25,
+    "eps": 1e-06
+  },
+  "language_model_pretrained_name": "Qwen/Qwen2.5-0.5B"
+}
